@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World this is my first project</h2>
+<h2>Hello deploying artifact to tomcat</h2>
 </body>
 </html>
